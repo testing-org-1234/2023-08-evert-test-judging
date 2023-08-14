@@ -3,7 +3,7 @@
 Source: https://github.com/testing-org-1234/2023-08-evert-test-judging/issues/1 
 
 ## Found by 
-frangoerli, frangoerli
+frangoerli
 ## Impact
 
 ## Code Snippet
