@@ -3,7 +3,6 @@ Short Blonde Beaver
 false
 
 # test
-## Vulnerability Detail
 
 ## Impact
 
